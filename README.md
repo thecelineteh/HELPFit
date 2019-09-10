@@ -12,9 +12,3 @@ Similar to the course BIT216 Software Engineering Principles for the [JEE](https
 * PHP
 * MySQL
 * XAMPP (local server)
-
-
-### Attributions
-For more awesome website templates make sure to visit https://colorlib.com
-
-All templates are licensed under the Creative Commons Attribution 3.0 license. https://creativecommons.org/licenses/by/3.0/
